@@ -1,1 +1,5 @@
-Showing example for copying result image from canvas to img element before the generated canvas was deleted.# stenografija
+Project made as a part of the subject at University of Ljubljana, Faculty of Computer and Information science Slovenia.
+
+Application allows you to code and decode messages into pictures.
+
+
